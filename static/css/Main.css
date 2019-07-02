@@ -10,6 +10,10 @@ body{
     padding-bottom: 50px;
     padding-left: 80px;
   }
+  .projec1 img{
+    width: 100%;
+    height: auto
+  }
 #project2{
     padding-top: 50px;
     padding-right: 30px;
