@@ -10,7 +10,7 @@ body{
     padding-bottom: 50px;
     padding-left: 80px;
   }
-  .project1{
+  .project1 img{
     object-fit: contain;
   }
 #project2{
@@ -25,7 +25,7 @@ body{
     padding-bottom: 50px;
     padding-left: 80px;
 }
-    .project3{
+    .project3 img{
         object-fit: contain;
     }
 #project4{
