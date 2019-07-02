@@ -10,9 +10,8 @@ body{
     padding-bottom: 50px;
     padding-left: 80px;
   }
-  .project1 img{
-    width: 60%;
-    height: auto
+  .project1{
+    object-fit: contain;
   }
 #project2{
     padding-top: 50px;
@@ -26,9 +25,8 @@ body{
     padding-bottom: 50px;
     padding-left: 80px;
 }
-    .project3 img{
-        width: 60%;
-        height: auto
+    .project3{
+        object-fit: contain;
     }
 #project4{
     padding-top: 50px;
