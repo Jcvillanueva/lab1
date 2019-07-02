@@ -10,7 +10,7 @@ body{
     padding-bottom: 50px;
     padding-left: 80px;
   }
-  .projec1 img{
+  .project1 img{
     width: 100%;
     height: auto
   }
@@ -26,6 +26,10 @@ body{
     padding-bottom: 50px;
     padding-left: 80px;
 }
+    .project3 img{
+        width: 100%;
+        height: auto
+    }
 #project4{
     padding-top: 50px;
     padding-right: 30px;
