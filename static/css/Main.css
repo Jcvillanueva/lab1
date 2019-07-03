@@ -21,13 +21,16 @@ body{
     padding-left: 80px;
 }
 #project3{
-    width: 300px;
-  border: 15px solid green;
-  padding: 50px;
-  margin: 20px;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
 }
     .project3 img{
-        object-fit: contain;
+        width: 300px;
+  border: 15px solid black;
+  padding: 50px;
+  margin: 20px;
     }
 #project4{
     padding-top: 50px;
