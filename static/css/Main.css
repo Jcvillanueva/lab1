@@ -1,7 +1,18 @@
+
 body{
-    background-image: "pattern-34.jpg";
+    background-image: url("images\pattern-34.jpg");
     background-repeat: repeat-x;
     background-position: right top; 
+}
+
+h1{
+    position: center;
+}
+p{
+    position: center;
+}
+h4{
+    position: center;
 }
 
 #project1 {
