@@ -26,12 +26,10 @@ body{
     padding-bottom: 50px;
     padding-left: 80px;
 }
-    .project3 img{
-        width: 300px;
-  border: 15px solid black;
-  padding: 50px;
-  margin: 20px;
-    }
+img.resize {
+    width:200px;
+    height:40px;
+  }
 #project4{
     padding-top: 50px;
     padding-right: 30px;
