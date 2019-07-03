@@ -1,6 +1,6 @@
 body{
     background-color:lightblue;
-    background-image: url("images/lorempixel.people.1.jpeg");
+    background-image: url("images/pattern-34.jpeg");
     background-repeat: no-repeat;
     background-position: right top; 
 }
@@ -40,6 +40,10 @@ body{
     padding-bottom: 50px;
     padding-left: 80px;
 }
+    img.Java{
+        width:360px;
+        height:320px;
+    }
 #project5{
     padding-top: 50px;
     padding-right: 30px;
