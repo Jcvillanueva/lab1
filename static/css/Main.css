@@ -1,7 +1,7 @@
 body{
     background-color:lightblue;
-    background-image: url("images/pattern-34.jpeg");
-    background-repeat: no-repeat;
+    background-image: url("images/pattern-34.jpg");
+    background-repeat: repeat;
     background-position: right top; 
 }
 
