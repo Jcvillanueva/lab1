@@ -1,5 +1,5 @@
 body{
-    background-image: url("C:\Users\Dan\Desktop\VillanuevaJP\static\images\pattern-34.jpg");
+    background-image: "pattern-34.jpg";
     background-repeat: repeat-x;
     background-position: right top; 
 }
