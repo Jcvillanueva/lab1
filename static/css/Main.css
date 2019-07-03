@@ -4,6 +4,7 @@ body{
     background-repeat: no-repeat;
     background-position: right top; 
 }
+
 #project1 {
     padding-top: 50px;
     padding-right: 30px;
@@ -20,10 +21,10 @@ body{
     padding-left: 80px;
 }
 #project3{
-    padding-top: 50px;
-    padding-right: 30px;
-    padding-bottom: 50px;
-    padding-left: 80px;
+    width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
 }
     .project3 img{
         object-fit: contain;
