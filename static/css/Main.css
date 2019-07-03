@@ -6,7 +6,9 @@ body{
 }
 
 h1{
-    position: center;
+    position: relative;
+    left: 40px;
+    
 }
 p{
     position: relative;
