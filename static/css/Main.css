@@ -1,7 +1,6 @@
 body{
-    background-color:lightblue;
-    background-image: url("images/pattern-34.jpg");
-    background-repeat: repeat;
+    background-image: url("pattern-34.jpg");
+    background-repeat: repeat-x;
     background-position: right top; 
 }
 
@@ -44,9 +43,4 @@ body{
         width:360px;
         height:320px;
     }
-#project5{
-    padding-top: 50px;
-    padding-right: 30px;
-    padding-bottom: 50px;
-    padding-left: 80px;
-}
+
