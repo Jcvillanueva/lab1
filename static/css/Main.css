@@ -9,10 +9,14 @@ h1{
     position: center;
 }
 p{
-    position: center;
+    position: relative;
+    left: 40px;
+    
 }
 h4{
-    position: center;
+    position: relative;
+    left: 40px;
+    
 }
 
 #project1 {
