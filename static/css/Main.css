@@ -21,16 +21,20 @@ h4{
     
 }
 
-#project1 {
+#photography {
     padding-top: 50px;
     padding-right: 30px;
     padding-bottom: 50px;
     padding-left: 80px;
+        margin: 5px;
+        border: 1px solid #ccc;
+        float: left;
+        width: 180px;     
   }
   .project1 img{
     object-fit: contain;
   }
-#project2{
+#music{
     padding-top: 50px;
     padding-right: 30px;
     padding-bottom: 50px;
