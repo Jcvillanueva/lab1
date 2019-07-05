@@ -1,4 +1,9 @@
 
+header{
+    margin-bottom: 50px;
+    padding: 20px;
+    background: #0f7dc2;
+}
 body{
     background-image: url("images\pattern-34.jpg");
     background-repeat: repeat-x;
