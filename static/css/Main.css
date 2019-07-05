@@ -37,22 +37,41 @@ h4{
         width: 180px;     
   }
   img.boracay1{
-    padding-top: 340px;
-    padding-bottom: 340px;
-    padding-left: 620px;
-    padding-right: 620px; 
+    width: 80%;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   }
+  
+  img {width: 100%}
+  
+  .boracay1 {
+    text-align: center;
+    padding: 10px 20px;
+  }
+
   img.boracay2{
-    padding-top: 340px;
-    padding-bottom: 340px;
-    padding-left: 620px;
-    padding-right: 620px; 
+    width: 80%;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  
+  img {width: 100%}
+  
+  .boracay2 {
+    text-align: center;
+    padding: 10px 20px;
   }
   img.streetLamp{
-    padding-top: 600px;
-    padding-bottom: 600px;
-    padding-left: 440px;
-    padding-right: 440px; 
+    width: 80%;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  
+  img {width: 100%}
+  
+  .streetLamp {
+    text-align: center;
+    padding: 10px 20px;
   }
   
 #music{
