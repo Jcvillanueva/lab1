@@ -36,18 +36,40 @@ h4{
         float: left;
         width: 180px;     
   }
-  img.boracay1{
+#photo{
+    text-align: center
+}
+
+  img.boracay1 {
     width: 540px;
     height: auto;
     background-color: white;
     box-shadow: 0 20px 8px 0 rgba(0, 0, 0, 0.2), 0 20px 10px 0 rgba(0, 0, 0, 0.19);
   }
   
-  img {width: 100%}
+  .Image1{
+    position: relative;
+    width: 50%;
+    max-width: 300px;
+  }
   
-  div.desc1 {
-    text-align: center;
-    padding: 10px 20px;
+  .desc1 {
+    position: absolute; 
+  bottom: 0; 
+  background: rgb(0, 0, 0);
+  background: rgba(0, 0, 0, 0.5); /* Black see-through */
+  color: #f1f1f1; 
+  width: 100%;
+  transition: .5s ease;
+  opacity:0;
+  color: white;
+  font-size: 20px;
+  padding: 20px;
+  text-align: center;
+  }
+
+  .Image1:hover .desc1 {
+    opacity: 1;
   }
 
   img.boracay2{
@@ -60,8 +82,21 @@ h4{
   img {width: 100%}
   
   div.desc2 {
-    text-align: center;
-    padding: 10px 20px;
+    position: absolute; 
+  bottom: 0; 
+  background: rgb(0, 0, 0);
+  background: rgba(0, 0, 0, 0.5); /* Black see-through */
+  color: #f1f1f1; 
+  width: 100%;
+  transition: .5s ease;
+  opacity:0;
+  color: white;
+  font-size: 20px;
+  padding: 20px;
+  text-align: center;
+  }
+  .boracay2:hover .overlay {
+    opacity: 1;
   }
   img.streetLamp{
     width: auto;
@@ -73,8 +108,18 @@ h4{
   img {width: 100%}
   
   div.desc3{
+    position: absolute; 
+    bottom: 0; 
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0.5); /* Black see-through */
+    color: #f1f1f1; 
+    width: 100%;
+    transition: .5s ease;
+    opacity:0;
+    color: white;
+    font-size: 20px;
+    padding: 20px;
     text-align: center;
-    padding: 10px 20px;
   }
   
 #music{
