@@ -37,7 +37,7 @@ h4{
         width: 180px;     
   }
   img.boracay1{
-    width: 80%;
+    width: 540px;
     height: auto;
     background-color: white;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
@@ -51,7 +51,7 @@ h4{
   }
 
   img.boracay2{
-    width: 80%;
+    width: 540px;
     height: auto; 
     background-color: white;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
@@ -64,8 +64,8 @@ h4{
     padding: 10px 20px;
   }
   img.streetLamp{
-    width: 80%;
-    height: auto;
+    width: auto;
+    height: 500px;
     background-color: white;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   }
