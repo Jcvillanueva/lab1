@@ -36,9 +36,25 @@ h4{
         float: left;
         width: 180px;     
   }
-  .project1 img{
-    object-fit: contain;
+  img.boracay1{
+    padding-top: 340px;
+    padding-bottom: 340px;
+    padding-left: 620px;
+    padding-right: 620px; 
   }
+  img.boracay2{
+    padding-top: 340px;
+    padding-bottom: 340px;
+    padding-left: 620px;
+    padding-right: 620px; 
+  }
+  img.streetLamp{
+    padding-top: 600px;
+    padding-bottom: 600px;
+    padding-left: 440px;
+    padding-right: 440px; 
+  }
+  
 #music{
     padding-top: 50px;
     padding-right: 30px;
