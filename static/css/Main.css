@@ -40,12 +40,12 @@ h4{
     width: 540px;
     height: auto;
     background-color: white;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    box-shadow: 0 20px 8px 0 rgba(0, 0, 0, 0.2), 0 20px 10px 0 rgba(0, 0, 0, 0.19);
   }
   
   img {width: 100%}
   
-  .boracay1 {
+  div.desc1 {
     text-align: center;
     padding: 10px 20px;
   }
@@ -54,12 +54,12 @@ h4{
     width: 540px;
     height: auto; 
     background-color: white;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    box-shadow: 0 20px 8px 0 rgba(0, 0, 0, 0.2), 0 20px 10px 0 rgba(0, 0, 0, 0.19);
   }
   
   img {width: 100%}
   
-  .boracay2 {
+  div.desc2 {
     text-align: center;
     padding: 10px 20px;
   }
@@ -67,12 +67,12 @@ h4{
     width: auto;
     height: 500px;
     background-color: white;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    box-shadow: 0 20px 8px 0 rgba(0, 0, 0, 0.2), 0 20px 10px 0 rgba(0, 0, 0, 0.19);
   }
   
   img {width: 100%}
   
-  .streetLamp {
+  div.desc3{
     text-align: center;
     padding: 10px 20px;
   }
