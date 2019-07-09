@@ -1,6 +1,5 @@
 
 header{
-    margin-bottom: 50px;
     padding: 20px;
     background: #0f7dc2;
 }
@@ -10,38 +9,15 @@ body{
     background-position: right top; 
 }
 
-h1{
-    position: relative;
-    left: 40px;
-    
-}
-p{
-    position: relative;
-    left: 40px;
-    
-}
 
-
-#photography {
-    padding-top: 50px;
-    padding-right: 30px;
-    padding-bottom: 50px;
-    padding-left: 80px;
-        margin: 5px;
-        border: 1px solid #ccc;
-        float: left;
-        width: 180px;     
-  }
-#photo{
-    text-align: center
+.carousel-item img{
+  width: 600px;
+  height: auto; 
 }
 
   img.boracay1 {
     width: 540px;
     height: auto;
-  }
-  div.card img{
-    object-fit: cover;
   }
   
   .Image1{
@@ -50,21 +26,7 @@ p{
     max-width: 300px;
   }
   
-  .desc1 {
-    position: absolute; 
-  bottom: 0; 
-  background: rgb(0, 0, 0);
-  background: rgba(0, 0, 0, 0.5); /* Black see-through */
-  color: #f1f1f1; 
-  width: 100%;
-  transition: .5s ease;
-  opacity:0;
-  color: white;
-  font-size: 20px;
-  padding: 20px;
-  text-align: center;
-  }
-
+ 
   .Image1:hover .desc1 {
     opacity: 1;
   }
@@ -76,22 +38,7 @@ p{
     box-shadow: 0 20px 8px 0 rgba(0, 0, 0, 0.2), 0 20px 10px 0 rgba(0, 0, 0, 0.19);
   }
   
-  img {width: 100%}
-  
-  div.desc2 {
-    position: absolute; 
-  bottom: 0; 
-  background: rgb(0, 0, 0);
-  background: rgba(0, 0, 0, 0.5); /* Black see-through */
-  color: #f1f1f1; 
-  width: 100%;
-  transition: .5s ease;
-  opacity:0;
-  color: white;
-  font-size: 20px;
-  padding: 20px;
-  text-align: center;
-  }
+
   .boracay2:hover .overlay {
     opacity: 1;
   }
@@ -104,49 +51,5 @@ p{
   
   img {width: 100%}
   
-  div.desc3{
-    position: absolute; 
-    bottom: 0; 
-    background: rgb(0, 0, 0);
-    background: rgba(0, 0, 0, 0.5); /* Black see-through */
-    color: #f1f1f1; 
-    width: 100%;
-    transition: .5s ease;
-    opacity:0;
-    color: white;
-    font-size: 20px;
-    padding: 20px;
-    text-align: center;
-  }
   
-#music{
-    padding-top: 50px;
-    padding-right: 30px;
-    padding-bottom: 50px;
-    padding-left: 80px;
-}
-#project3{
-    padding-top: 50px;
-    padding-right: 30px;
-    padding-bottom: 50px;
-    padding-left: 80px;
-}
-    img.resize {
-        width:360px;
-        height:320px;
-    }
-    img.resize2 {
-        width:360px;
-        height:320px;
-    }
-#project4{
-    padding-top: 50px;
-    padding-right: 30px;
-    padding-bottom: 50px;
-    padding-left: 80px;
-}
-    img.Java{
-        width:360px;
-        height:320px;
-    }
 
