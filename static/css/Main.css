@@ -20,11 +20,7 @@ p{
     left: 40px;
     
 }
-h4{
-    position: relative;
-    left: 40px;
-    
-}
+
 
 #photography {
     padding-top: 50px;
@@ -43,8 +39,9 @@ h4{
   img.boracay1 {
     width: 540px;
     height: auto;
-    background-color: white;
-    box-shadow: 0 20px 8px 0 rgba(0, 0, 0, 0.2), 0 20px 10px 0 rgba(0, 0, 0, 0.19);
+  }
+  div.card img{
+    object-fit: cover;
   }
   
   .Image1{
