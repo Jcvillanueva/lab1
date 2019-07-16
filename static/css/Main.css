@@ -1,16 +1,19 @@
 
 header{ 
-  background-image: linear-gradient(to top, #e6e9f0 0%, #eef1f5 100%);
+  background-image: url(../images/403441.gif);
 }
 body{
-  background-image: linear-gradient(120deg, #f6d365 50%, #fda085 100%);
+  background-image: url(../images/403441.gif);
 }
 h1{
   font-family: 'Press Start 2P', cursive;
   text-align: center;
+  color: beige;
 }
 p{
+  font-family: 'Press Start 2P', cursive;
   text-align: center;
+  color: white;
 }
 .carousel-item img{
   width: 200px;
@@ -30,12 +33,12 @@ display: block;
   height: auto;
 }
 .card-img-top{
-  background-image: linear-gradient(120deg, #f6d365 70%, #fda085 100%);
+  background-color: rgb(17, 17, 17);
 }
 div.card{
-  background-image: linear-gradient(120deg, #f6d365 70%, #fda085 100%); 
+  background-color: rgb(17, 17, 17);
   background-blend-mode: multiply,multiply;
-  color: rgb(59, 59, 58);
+  color:whitesmoke;
 }
 
   img.boracay1 {
@@ -58,7 +61,7 @@ div.card{
     width: 540px;
     height: auto; 
     background-color: white;
-    box-shadow: 0 20px 8px 0 rgba(0, 0, 0, 0.2), 0 20px 10px 0 rgba(0, 0, 0, 0.19);
+    box-shadow: white;
   }
   
 
