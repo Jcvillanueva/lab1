@@ -69,7 +69,6 @@ div.card{
     box-shadow: white;
   }
   
-
   .boracay2:hover .overlay {
     opacity: 1;
   }
@@ -82,5 +81,9 @@ div.card{
   
   img {width: 100%}
   
+  small.text-muted{
+    font-family: 'Press Start 2P', cursive;
+    color:whitesmoke;
+  }
   
 
