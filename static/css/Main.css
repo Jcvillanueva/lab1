@@ -20,6 +20,22 @@ p{
   text-align: center;
   color: white;
 }
+div.jumbotron{
+  margin-top: 5%;
+}
+div.jumbotron2{
+  background-color: #4ddbd6;
+  margin-top: 10%;
+  
+}
+p.jumboP{
+  font-size: small;
+  color: black;
+}
+h1.display-3{
+  font-size: large;
+  color:#272e2d ;
+}
 .carousel-item img{
   width: 200px;
   height: auto;
@@ -39,15 +55,33 @@ display: block;
 }
 .card-img-top{
   background-color: rgb(17, 17, 17);
+  position: center top;
+  left: 0;
+  top: 50%;
+  width: 250px;
+  height: auto;
 }
+.card-text{
+  font-size: x-small;
+}
+.card-title{
+  font-size: large;
+}
+
 div.card{
   background-color: rgb(17, 17, 17);
   background-blend-mode: multiply,multiply;
+  position: relative;
+  margin-bottom: 50%;
   color:whitesmoke;
 }
 
+div.jumbotron{
+  background-color: #4ddbd6;
+  color: black;
+}
   img.boracay1 {
-    width: 540px;
+    width: auto;
     height: auto;
   }
   
@@ -63,7 +97,7 @@ div.card{
   }
 
   img.boracay2{
-    width: 540px;
+    width: auto;
     height: auto; 
     background-color: white;
     box-shadow: white;
